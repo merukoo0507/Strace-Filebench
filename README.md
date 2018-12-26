@@ -50,4 +50,3 @@ $ ./strace -p “pid” -f
 跟踪指定的進程pid
 
 -f 跟踪由fork呼叫所產生的子進程
-
