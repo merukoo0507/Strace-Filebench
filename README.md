@@ -1,8 +1,8 @@
 # Strace-Filebench  <br /> 
   使用環境:  <br />
-  Ubuntu 14.04 x86  <br />
-  Strace: [Trace Tool] strace-2.5.20  <br /> 
-  Filebench: filebench  <br />
+  1. Ubuntu 14.04 x86  <br />
+  2. Strace: [Trace Tool] strace-2.5.20  <br /> 
+  3. Filebench: filebench  <br />
   <br />
   執行順序:  <br />
   1. 需要先執行filebench  <br />
