@@ -1,5 +1,5 @@
 # Strace-Filebench  <br /> 
-  Use Strace to get the data of the workload in Filebench.  <br />
+  <br />
   使用環境: Ubuntu 14.04 x86  <br />
   執行順序:  <br />
   1. 需要先執行filebench  <br />
