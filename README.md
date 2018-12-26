@@ -1,5 +1,5 @@
 # Strace-Filebench  <br /> 
-  使用環境: 
+  使用環境:  <br />
   Ubuntu 14.04 x86  <br />
   Strace: [Trace Tool] strace-2.5.20  <br /> 
   Filebench: filebench  <br />
@@ -7,7 +7,6 @@
   執行順序:  <br />
   1. 需要先執行filebench  <br />
   2. 再執行strace去取得workload的資料  <br />
-  <br /> 
   <br /> 
 ## Filebench  <br />
   <br />
